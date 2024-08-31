@@ -1,0 +1,23 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "React App from Scratch",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhatiaYukta/react-project-scratch.git"
+  },
+  "keywords": [],
+  "author": "Yukta Bhatia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhatiaYukta/react-project-scratch/issues"
+  },
+  "homepage": "https://github.com/BhatiaYukta/react-project-scratch#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
